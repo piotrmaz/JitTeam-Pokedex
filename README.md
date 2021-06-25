@@ -1,5 +1,6 @@
 # JitTeam-Pokedex
 A simple application that provides endpoints to manage pokemons.
+Technologies and tools used in this exercise: NodeJs (ExpressJs), npm, Postman, MongoDB (mongoose).
 
 1.Get all pokemons from database: **localhost:3000/pokemon**
 
